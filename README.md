@@ -32,4 +32,9 @@ There are two key dependencies we will need to install to getup and running for 
 
 git clone [https://github](https://github.com/nicknochnack/TFODCourse.git)https://github.com/nicknochnack/TFODCourse.git
 
+#Install Easyocr 
+!pip install easyocr
+
+now open the command prompt
+
 
