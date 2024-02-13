@@ -52,4 +52,7 @@ now open the  d drive and check ANPR folder
 now open anprsys folder and check
 
 
+now activating the virtual environment
+
+
 
