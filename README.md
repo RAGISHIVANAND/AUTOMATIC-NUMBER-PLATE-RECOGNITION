@@ -39,6 +39,9 @@ now open the command prompt
 
 ![command prompt](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/f32741fb-cf90-45a0-b765-392231f14b3a)
 
+![command prompt 1](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/b1335aad-56fe-49aa-8f79-32a90527a038)
+
+
 
 now open the  d drive and check ANPR folder
 
