@@ -19,3 +19,8 @@ for this project we will be using two key libraries for Automatic Number Plate D
 
 ![tensorflow object detection](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/b94fb07f-62d1-4587-b460-25a50d6c8161)
 
+use easy ocr to extract text
+
+![ocr](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/b10a270d-1e0e-4ea9-8e61-18fe17fa02e6)
+
+
