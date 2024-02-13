@@ -7,7 +7,7 @@ PROCEDURE:
 5. Applying OCR to Text
 6. output ROI's and Results
 
-how it's going to work
+working process :
 
 for this project we will be using two key libraries for Automatic Number Plate Detection
 
