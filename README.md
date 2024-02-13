@@ -24,3 +24,12 @@ use easy ocr to extract text
 ![ocr](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/b10a270d-1e0e-4ea9-8e61-18fe17fa02e6)
 
 
+Install
+
+There are two key dependencies we will need to install to getup and running for this.
+
+#Setup Tensorflow Object Detection
+
+git clone [https://github](https://github.com/nicknochnack/TFODCourse.git)https://github.com/nicknochnack/TFODCourse.git
+
+
