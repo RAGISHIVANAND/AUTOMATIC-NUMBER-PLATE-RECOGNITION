@@ -37,4 +37,7 @@ git clone [https://github](https://github.com/nicknochnack/TFODCourse.git)https:
 
 now open the command prompt
 
+![command prompt](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/f32741fb-cf90-45a0-b765-392231f14b3a)
+
+
 
