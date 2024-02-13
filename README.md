@@ -56,6 +56,9 @@ now activating the virtual environment
 
 ![now activating the environment](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/6f716fe8-0cb1-4269-b8f5-27fa30547bcb)
 
+![step11](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/11af824e-d6db-40ba-b476-1ce56240fb88)
+
+
 
 
 
