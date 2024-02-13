@@ -30,6 +30,9 @@ There are two key dependencies we will need to install to getup and running for 
 
 #Setup Tensorflow Object Detection
 
+Step 1. Clone this repository: https://github.com/nicknochnack/TFODCourse
+
+
 git clone [https://github](https://github.com/nicknochnack/TFODCourse.git)https://github.com/nicknochnack/TFODCourse.git
 
 #Install Easyocr 
