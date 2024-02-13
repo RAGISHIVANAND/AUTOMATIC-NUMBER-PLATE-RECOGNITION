@@ -54,5 +54,8 @@ now open anprsys folder and check
 
 now activating the virtual environment
 
+![now activating the environment](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/6f716fe8-0cb1-4269-b8f5-27fa30547bcb)
+
+
 
 
