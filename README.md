@@ -2,7 +2,7 @@ PROCEDURE:
 
 1. Install and Setup
 2. Getting License Plate Data
-3. Training a OD Model
+3. Training a Object Detection Model
 4. Detecting License Plates
 5. Applying OCR to Text
 6. output ROI's and Results
