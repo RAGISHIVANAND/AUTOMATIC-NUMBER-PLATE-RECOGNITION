@@ -83,6 +83,9 @@ now open the jupyter notebook
 
 now you can see the anprsys in our machine learning model
 
+![anprsys](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/cc926e3f-4420-4358-954a-c92c42416a38)
+
+
 
 
 
