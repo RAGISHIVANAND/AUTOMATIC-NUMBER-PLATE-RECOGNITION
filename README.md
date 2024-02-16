@@ -85,6 +85,8 @@ now you can see the anprsys in our machine learning jupyter
 
 ![anprsys](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/cc926e3f-4420-4358-954a-c92c42416a38)
 
+now installing tensorflow object detection: 
+
 
 
 
