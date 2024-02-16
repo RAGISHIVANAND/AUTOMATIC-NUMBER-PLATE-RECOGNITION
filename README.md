@@ -106,8 +106,7 @@ now check tfod folder there is tensor folder
 
 
 
-Download TF Models ,clone github repository,install all the codes 
-run 
+Download TF Models ,clone the github repository,install all pip codes , run all the codes :
 
 ![download tfmodels](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/524bdffc-e09b-41d7-a4a4-e662df7de6e0)
 
