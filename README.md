@@ -73,11 +73,10 @@ now close the jupyter notebook
 
 now enter #{control + c} in command prompt
 
-![install](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/b09a5a43-5d20-4eac-b444-e6d9cc561f46)
-
 
 now install 
 
+![install](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/b09a5a43-5d20-4eac-b444-e6d9cc561f46)
 
 
 
