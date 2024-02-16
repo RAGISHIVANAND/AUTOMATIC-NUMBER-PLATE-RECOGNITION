@@ -81,6 +81,8 @@ now install
 now open the jupyter notebook
 ![jupyter notebook](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/8b5d3105-667a-49fc-95c2-65dd10b1a831)
 
+now you can see the anprsys in our machine learning model
+
 
 
 
