@@ -106,6 +106,9 @@ now check tfod folder there is tensor folder
 
 
 
+Download TF Models ,clone github repository
+
+![download tfmodels](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/524bdffc-e09b-41d7-a4a4-e662df7de6e0)
 
 
 
