@@ -95,6 +95,9 @@ change the kernel to anprsys
 
 setup paths
 
+![setup paths](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/24ed0765-eaba-47e0-a0e0-7b42883e825d)
+
+
 
 
 
