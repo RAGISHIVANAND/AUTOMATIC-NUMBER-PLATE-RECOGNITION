@@ -46,6 +46,8 @@ now open the command prompt
 
 now open the  d drive and check ANPR folder
 
+creating a virtual environment
+
 
 ![creating a virtual environment](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/89248bdb-9d83-4ad8-aaa5-79435ccc4a01)
 
