@@ -87,6 +87,10 @@ now you can see the anprsys in our machine learning jupyter
 
 now installing tensorflow object detection: 
 
+now open the training and detection.ipynb 
+
+change the kernel to anprsys
+
 ![trrr](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/bc393a80-6708-4873-a41f-6488d1b41564)
 
 
