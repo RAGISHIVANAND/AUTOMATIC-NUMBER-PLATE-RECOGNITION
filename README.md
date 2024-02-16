@@ -99,6 +99,12 @@ setup paths
 
 now check tfod folder there is tensor folder
 
+![tfod folder](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/b45e1914-d74d-48ab-95d0-bfe9a53f49ac)
+
+
+![4 folders](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/b58cf42f-0ab9-4152-9216-16f23e7a4921)
+
+
 
 
 
