@@ -65,6 +65,9 @@ now activating the virtual environment
 ![44](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/f448c5fa-0164-41f8-af90-b9c0e3d3d879)
 
 
+now open the jupyter note book 
+
+![jupyter notebook](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/8b5d3105-667a-49fc-95c2-65dd10b1a831)
 
 
 
