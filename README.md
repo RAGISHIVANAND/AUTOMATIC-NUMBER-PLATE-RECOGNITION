@@ -73,6 +73,8 @@ now close the jupyter notebook
 
 now enter #{control + c} in command prompt
 
+now install 
+
 
 
 
