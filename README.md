@@ -78,6 +78,9 @@ now install
 
 ![install](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/b09a5a43-5d20-4eac-b444-e6d9cc561f46)
 
+now open the jupyter notebook
+![jupyter notebook](https://github.com/RAGISHIVANAND/AUTOMATIC-NUMBER-PLATE-RECOGNITION/assets/126608984/8b5d3105-667a-49fc-95c2-65dd10b1a831)
+
 
 
 
